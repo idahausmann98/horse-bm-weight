@@ -1,0 +1,16 @@
+# Dependencies inferred from imports; versions must be locked after validation.
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn>=1.4
+audmetric
+pygam
+xgboost
+optuna
+joblib
+Pillow
+jupyterlab
+nbformat
+nbconvert
+ipykernel

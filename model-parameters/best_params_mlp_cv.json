@@ -1,0 +1,8 @@
+{
+    "n_layers": 1,
+    "n_units_layer_0": 4,
+    "solver": "lbfgs",
+    "activation": "tanh",
+    "alpha": 7.689469484684942,
+    "max_fun": 30000
+}
